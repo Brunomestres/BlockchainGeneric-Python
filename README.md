@@ -3,7 +3,7 @@
 ![Badge](https://img.shields.io/static/v1?label=python&message=v3.7&color=blue&style=for-the-badge&logo=PYTHON)
 ![Badge](https://img.shields.io/static/v1?label=Flask&message=framework&color=blue&style=for-the-badge&logo=FLASK)
 
-## Descrição do Projeto  
+## :beer: Descrição do Projeto  
 
 <p> Uma aplicação para simular a manipulação de uma Blockchain</p>
 
